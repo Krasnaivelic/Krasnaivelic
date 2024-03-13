@@ -3,7 +3,8 @@
 - 🔭 Soy estudiante de _ingeniería biomedica_
 - ⚡ Soy titulo elétrica
 - me gustan los 🌱pudu🌱
-![Image: pudu](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.rutaschile.com%2Fconfigurador%2FParques%2FFauna_23112015084047.jpg&tbnid=2dFgCnJV710l0M&vet=12ahUKEwjv7rXq-PGEAxVGo5UCHbxNB70QMygFegQIARB7..i&imgrefurl=https%3A%2F%2Fwww.rutaschile.com%2FGuia-de-Fauna-Detalle.php%3FN%3DPudu&docid=DPk8rs2qFSrp1M&w=940&h=529&q=pudu&ved=2ahUKEwjv7rXq-PGEAxVGo5UCHbxNB70QMygFegQIARB7)
+
+![Image: pudu](https://www.reforestemos.org/content/uploads/384401781-18388415197033867-431876921902592106-n-600x400.jpg)
 
 <!--
 **Krasnaivelic/Krasnaivelic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
